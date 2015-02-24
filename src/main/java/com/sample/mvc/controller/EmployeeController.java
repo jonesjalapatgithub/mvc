@@ -26,6 +26,8 @@ public class EmployeeController {
 		// TODO Auto-generated constructor stub
 	}
 
+	
+
 	@RequestMapping(value = "/home", method = RequestMethod.GET)
 	public String viewHome() {
 		return "home";
