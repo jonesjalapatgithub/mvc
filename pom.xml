@@ -205,16 +205,4 @@
       <id>artifactory</id>
     </profile>
   </profiles>
-
-  
-    <servers>
-    <server>
-      <username>jonesbond</username>
-      <id>central</id>
-    </server>
-    <server>
-      <username>jonesbond</username>
-      <id>snapshots</id>
-    </server>
-  </servers>
 </project>
