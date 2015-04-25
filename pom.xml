@@ -205,9 +205,7 @@
       <id>artifactory</id>
     </profile>
   </profiles>
-  <activeProfiles>
-    <activeProfile>artifactory</activeProfile>
-  </activeProfiles>
+
   
     <servers>
     <server>
